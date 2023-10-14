@@ -5,7 +5,7 @@ Página criada durante a Tarefa Seletores, do programa Descodificadas, para trei
 Com esse projeto pude testar tags básicas de HTML e CSS.
 
 
-Veja o projeto rodando aqui: https://andiereis.github.io/Descodificadas/
+Veja o projeto rodando aqui: https://andiereis.github.io/tarefaBoxModel/
 
 
 
